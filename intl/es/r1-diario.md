@@ -1,6 +1,6 @@
-# #100DaysOfCode diario - ronda 1 - [Patrick Svensson]
+# #100DaysOfCode diario - ronda 1 - Patrick Svensson
 
-El diario de mi reto #100DaysOfCode. Empecé el [Lunes, 6 de agosto de 2018]
+El diario de mi reto #100DaysOfCode. Empecé el lunes, 6 de agosto de 2018.
 
 ## Registro
 
